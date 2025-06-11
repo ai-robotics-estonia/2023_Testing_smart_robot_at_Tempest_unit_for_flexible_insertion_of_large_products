@@ -1,4 +1,4 @@
-# TESTING A ROBOT IN TEMPEST LTD PRODUCTION UNIT FOR FLEXIBLE INSERTION OF LARGE-SIZED PRODUCTS INTO THE SPECIAL MACHINE
+# Testing a robot in Tempest AS production unit for flexible insertion of large-sized products into the special machine
 
 ## Summary
 | Company Name | [TEMPEST AS](https://tempest.ee/) |
